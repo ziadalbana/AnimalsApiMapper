@@ -1,0 +1,49 @@
+{
+    "data" : {
+        "animals": [
+            {
+              "name": "Cheetah",
+              "taxonomy": {
+                "kingdom": "Animalia",
+                "phylum": "Chordata",
+                "class": "Mammalia",
+                "order": "Carnivora",
+                "family": "Felidae",
+                "genus": "Acinonyx",
+                "scientificName": "Acinonyx jubatus"
+              },
+              "locations": [
+                "Africa",
+                "Asia",
+                "Eurasia"
+              ],
+              "characteristics": {
+                "prey": "Gazelle, Wildebeest, Hare",
+                "nameOfYoung": "Cub",
+                "groupBehavior": "Solitary/Pairs",
+                "estimatedPopulationSize": "8,500",
+                "biggestThreat": "Habitat loss",
+                "distinctiveFeature": "Yellowish fur covered in small black spots",
+                "gestationPeriod": "90 days",
+                "habitat": "Open grassland",
+                "diet": "Carnivore",
+                "averageLitterSize": "3",
+                "lifestyle": "Diurnal",
+                "commonName": "Cheetah",
+                "numberOfSpecies": "5",
+                "location": "Asia and Africa",
+                "slogan": "The fastest land mammal in the world!",
+                "group": "Mammal",
+                "color": "BrownYellowBlackTan",
+                "skin": "Fur",
+                "topSpeed": "70 mph",
+                "lifespan": "10 - 12 years",
+                "weight": "40kg - 65kg (88lbs - 140lbs)",
+                "height": "115cm - 136cm (45in - 53in)",
+                "ageOfSexualMaturity": "20 - 24 months",
+                "ageOfWeaning": "3 months"
+              }
+            }
+          ]
+    }
+}

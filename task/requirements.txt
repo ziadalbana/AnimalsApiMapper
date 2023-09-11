@@ -1,0 +1,5 @@
+- Communicate with the API denoted here: https://api-ninjas.com/api/animals
+- Ensure that your code functions on multiple array elements
+- Store the response data in a local Database of your choosing
+- Use 'payments' as a reference, though you're free to deviate from it if you wish.
+- Return a response similar to the attached 'Service Response Example'
